@@ -97,3 +97,8 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+# Google External Dependency Manager (com.unity.ads 가 Assets/ 에 풀어놓는 생성물)
+/[Aa]ssets/MobileDependencyResolver*
+
+# Visual Studio 신형 솔루션 파일 (*.sln 과 달리 기존 규칙에 안 걸림)
+*.slnx
